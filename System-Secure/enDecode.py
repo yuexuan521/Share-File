@@ -163,7 +163,7 @@ def ensure_demo_file(file_path: str) -> None:
 
 # 主流程
 def main() -> None:
-    student_text = "20257038贠轩"   
+    student_text = "*********"   
     demo_file = "File.txt"
 
     ensure_demo_file(demo_file)
