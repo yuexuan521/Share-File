@@ -17,7 +17,7 @@ from Crypto.Util.Padding import pad, unpad
 
 
 # 基础配置
-DES_KEY = b"8bytekey"   # DES 密钥必须为 8 字节
+DES_KEY = b"********"   # DES 密钥必须为 8 字节
 DES_IV = b"12345678"    # CBC 模式 IV 必须为 8 字节
 
 
